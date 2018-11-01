@@ -11,8 +11,18 @@ http://wndaili.cn/
 =https://ip.ihuan.me/
 =http://www.89ip.cn/
 =http://ip.seofangfa.com/
-=£¡http://www.goubanjia.com/
-=£¡https://premproxy.com/proxy-by-country/
-=£¡https://www.xroxy.com/free-proxy-lists/
-=https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list.txt
-=https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.json
+=ï¼http://www.goubanjia.com/
+=ï¼https://premproxy.com/proxy-by-country/
+=ï¼https://www.xroxy.com/free-proxy-lists/
+
+=http://cn-proxy.com/
+http://www.freeproxylists.net/zh/              %3e,%3c
+=http://lab.crossincode.com/proxy/
+
+http://free-proxy.cz/zh/proxylist/country/CN/all/ping/all      base64
+=https://github.com/jiangxianli/ProxyIpLib
+=https://free-proxy-list.net/
+http://www.swei360.com/free/
+éœ€è¦è¯†åˆ«å›¾ç‰‡
+https://proxy.mimvp.com/free.php
+http://ip.zdaye.com/FreeIPlist.html
