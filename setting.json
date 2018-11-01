@@ -1,0 +1,4 @@
+{
+  "wechat":{"API_PORT":5445,"REDIS_KEY":"wechat","TEST_if":"验证码","TEST_tage":"not in","TEST_URL":"http://mp.weixin.qq.com/profile?src=3&timestamp=1536645385&ver=1&signature=3m8gBO6iiCieDgXxZ50X9V45KUM3i3-x4gEm2V00WWE3g2ykEGfAiQrsKo-hI2-61lQssau97JpzcS-8DhRylQ=="},
+  "sougou":{"API_PORT":5444,"REDIS_KEY":"sougou","TEST_if":"ACS","TEST_tage":"in","TEST_URL":"https://weixin.sogou.com/weixin?type=1&s_from=input&query=ACS%E7%BE%8E%E5%9B%BD%E5%8C%96%E5%AD%A6%E4%BC%9A&ie=utf8&_sug_=n&_sug_type_=" }
+}
